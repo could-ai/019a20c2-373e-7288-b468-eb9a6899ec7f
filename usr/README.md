@@ -1,6 +1,6 @@
-# couldai_user_app
+# snap_summary
 
-A new Flutter project.
+AI-powered video and audio summarizer that delivers smart, instant, and human-like summaries of YouTube, TikTok, podcasts, and any uploaded media.
 
 ## Getting Started
 

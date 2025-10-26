@@ -1,2 +1,16 @@
 name: snap_summary
-description: 
+description: AI-powered video and audio summarizer that delivers smart, instant, and human-like summaries of YouTube, TikTok, podcasts, and any uploaded media.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
